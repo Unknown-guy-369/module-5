@@ -321,3 +321,4 @@ Thus the C program to calculate the total and average of student using structure
 	
 
 
+[output](https://github.com/Unknown-guy-369/module-5/edit/main/README.md)
